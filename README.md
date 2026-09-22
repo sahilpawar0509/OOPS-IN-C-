@@ -1,36 +1,38 @@
-# 🚀 Object Oriented Programming with C++ — Unit-Wise Repository
+# 🌟 OOPS in C++ — Unit-Wise Repository
 
-[![Language](https://img.shields.io/badge/Language-C%2B%2B-blue.svg)](https://isocpp.org/) [![Semester](https://img.shields.io/badge/Semester-III-green.svg)](https://github.com/) [![Units](https://img.shields.io/badge/Units-I%20%E2%86%92%20III-orange.svg)](https://github.com/)
+[![🚀 Language](https://img.shields.io/badge/Language-C%2B%2B-blue.svg)](https://isocpp.org/)  
+[![🎓 Semester](https://img.shields.io/badge/Semester-III-green.svg)](https://github.com/)  
+[![📚 Units](https://img.shields.io/badge/Units-I%20%E2%86%92%20III-orange.svg)](https://github.com/)
 
-> A clean, unit-wise collection of C++ programs based on the **Object Oriented Programming with C++** course material.  
-> Each unit is organized in its own folder for easy compilation, testing, and submission.  
-> Includes **real-time application programs** for practical understanding.
+> ✨ A **dynamic collection** of C++ programs organized unit-wise for the course **Object Oriented Programming with C++**.  
+> 🔥 Each unit folder contains well-structured programs with comments, examples, and real-time applications.  
+> 🎯 Designed to be **easy to compile, test, and showcase** as your coding portfolio.
 
 ---
 
-## 👨‍💻 Student
+## 👨‍🎓 Student Profile
 
-| Detail | Information |
+| 📝 Detail | 📌 Information |
 |---|---|
-| **Name** | Sahil Pawar |
-| **PRN** | Enter your PRN |
-| **Class / Division** | SY – C |
-| **Programme** | B.Tech Artificial Intelligence & Data Science |
-| **Semester** | III |
-| **Course** | Object Oriented Programming with C++ |
-| **Course Code** | ADPC303 |
-| **College** | Zeal College of Engineering and Research, Pune |
+| **👤 Name** | Sahil Pawar |
+| **🆔 PRN** | Enter your PRN |
+| **🏫 Class / Division** | SY – C |
+| **🎓 Programme** | B.Tech Artificial Intelligence & Data Science |
+| **📅 Semester** | III |
+| **📖 Course** | Object Oriented Programming with C++ |
+| **🔢 Course Code** | ADPC303 |
+| **🏛️ College** | Zeal College of Engineering and Research, Pune |
 
 ---
 
 ## 📚 Course Roadmap
 
-| Unit | Topic | Main Focus |
+| 📖 Unit | 🏷️ Topic | 🎯 Main Focus |
 |---|---|---|
-| **Unit I** | **Fundamentals of Object Oriented Programming** | Basic data types, control structures, functions, classes, constructors, static members, inline & friend functions |
-| **Unit II** | **Inheritance** | Single, multilevel, hierarchical, multiple inheritance, overriding, abstract classes, virtual base classes |
-| **Unit III** | **Polymorphism** | Function/operator overloading, virtual functions, abstract classes, polymorphic pointers, destructors |
-| **Real-Time Applications** | Applied OOP Concepts | Mini-projects demonstrating real-world use cases |
+| **Unit I** | Fundamentals of OOP | 🧩 Data types, control structures, functions, classes, constructors, static members, inline & friend functions |
+| **Unit II** | Inheritance | 🏗️ Single, multilevel, hierarchical, multiple inheritance, overriding, abstract classes, virtual base classes |
+| **Unit III** | Polymorphism | 🎭 Function/operator overloading, virtual functions, abstract classes, polymorphic pointers, destructors |
+| **⚡ Real-Time Applications** | Applied OOP Concepts | 🚀 Mini-projects demonstrating real-world use cases |
 
 ---
 
@@ -38,8 +40,8 @@
 
 ```text
 OOPS-IN-C-/
-├── README.md
-├── oops unit 1/
+├── 📄 README.md
+├── 📦 oops unit 1/
 │   ├── 01-Basic-Data-Types
 │   ├── 02-If-Else
 │   ├── 03-Loop-and-Array
@@ -48,7 +50,7 @@ OOPS-IN-C-/
 │   ├── 06-Constructor-and-Destructor
 │   ├── 07-Static-Member
 │   └── 08-Inline-and-Friend-Function
-├── oops unit 2/
+├── 📦 oops unit 2/
 │   ├── Program_01_Basic_Single_Inheritance
 │   ├── Program_02_Protected_Member_Access
 │   ├── Program_03_Public_vs_Private_Inheritance
@@ -65,7 +67,7 @@ OOPS-IN-C-/
 │   ├── Program_14_Nested_Class
 │   ├── Program_15_Vehicle_Rental_System
 │   └── Program_16_Employee_Payroll_System
-├── oops unit 3/
+├── 📦 oops unit 3/
 │   ├── 01-Function-Overloading
 │   ├── 02-Area-Calculator
 │   ├── 03-Unary-Minus-Operator
@@ -82,7 +84,7 @@ OOPS-IN-C-/
 │   ├── 14-Object-Slicing
 │   ├── 15-Payment-Processing-System
 │   └── 16-Employee-Payroll
-├── unit wise real time application/
+├── ⚡ unit wise real time application/
 │   ├── Unit-I-Fundamentals
 │   │   ├── 01-Smart-Agriculture-Sensor-Monitor
 │   │   ├── 02-Student-Attendance-Management
