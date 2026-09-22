@@ -1,9 +1,10 @@
-# 🚀 Object Oriented Programming with C++ — Unit II Repository
+# 🚀 Object Oriented Programming with C++ — Unit-Wise Repository
 
-[![Language](https://img.shields.io/badge/Language-C%2B%2B-blue.svg)](https://isocpp.org/) [![Semester](https://img.shields.io/badge/Semester-III-green.svg)](https://github.com/) [![Unit](https://img.shields.io/badge/Unit-II-orange.svg)](https://github.com/)
+[![Language](https://img.shields.io/badge/Language-C%2B%2B-blue.svg)](https://isocpp.org/) [![Semester](https://img.shields.io/badge/Semester-III-green.svg)](https://github.com/) [![Units](https://img.shields.io/badge/Units-I%20%E2%86%92%20III-orange.svg)](https://github.com/)
 
 > A clean, unit-wise collection of C++ programs based on the **Object Oriented Programming with C++** course material.  
-> This repository contains all programs completed for **Unit II — Inheritance** as part of the Continuous Internal Evaluation (CIE).
+> Each unit is organized in its own folder for easy compilation, testing, and submission.  
+> Includes **real-time application programs** for practical understanding.
 
 ---
 
@@ -12,7 +13,7 @@
 | Detail | Information |
 |---|---|
 | **Name** | Sahil Pawar |
-| **PRN** | Enter your PRN |
+| **ZPRN** | 125UAD1110 |
 | **Class / Division** | SY – C |
 | **Programme** | B.Tech Artificial Intelligence & Data Science |
 | **Semester** | III |
@@ -22,24 +23,35 @@
 
 ---
 
-## 📚 Unit II — Inheritance
+## 📚 Course Roadmap
 
-| Program | Title | Focus |
+| Unit | Topic | Main Focus |
 |---|---|---|
-| **Program 01** | Employee Payroll System | Demonstrates single & multilevel inheritance for salary calculation |
-| **Program 02** | Digital Payment Gateway | Models hierarchical inheritance for transactions & wallets |
-| **Program 03** | Vehicle Fleet Management | Uses base & derived classes to manage vehicles and maintenance |
+| **Unit I** | **Fundamentals of Object Oriented Programming** | Classes, objects, constructors, static members, inline & friend functions |
+| **Unit II** | **Inheritance** | Class hierarchies, overriding, virtual base classes, abstract classes |
+| **Unit III** | **Polymorphism** | Operator overloading, function overloading, virtual functions |
+| **Real-Time Applications** | Applied OOP Concepts | Mini-projects demonstrating real-world use cases |
 
 ---
 
 ## 🗂️ Repository Structure
 
 ```text
-OOP-Cpp-Unit-II/
+OOP-Cpp-Units/
 ├── README.md
-├── Program_01/
+├── oops unit 1/
+│   └── program01.cpp  # Fundamentals Example 1
+│   └── program02.cpp  # Fundamentals Example 2
+│   └── program03.cpp  # Fundamentals Example 3
+├── oops unit 2/
 │   └── program01.cpp  # Employee Payroll System
-├── Program_02/
 │   └── program02.cpp  # Digital Payment Gateway
-├── Program_03/
 │   └── program03.cpp  # Vehicle Fleet Management
+├── oops unit 3/
+│   └── program01.cpp  # CAD Shape Drawing System
+│   └── program02.cpp  # Complex Number Calculator
+│   └── program03.cpp  # Input Validation Service
+├── unit wise real time application/
+│   └── project01.cpp  # Smart Home Device Manager
+│   └── project02.cpp  # Media Player with Polymorphic Controls
+│   └── project03.cpp  # E-Commerce Shopping Cart Using STL
