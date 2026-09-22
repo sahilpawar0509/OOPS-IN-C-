@@ -13,7 +13,7 @@
 | Detail | Information |
 |---|---|
 | **Name** | Sahil Pawar |
-| **ZPRN** | 125UAD1110 |
+| **PRN** | Enter your PRN |
 | **Class / Division** | SY – C |
 | **Programme** | B.Tech Artificial Intelligence & Data Science |
 | **Semester** | III |
@@ -27,9 +27,9 @@
 
 | Unit | Topic | Main Focus |
 |---|---|---|
-| **Unit I** | **Fundamentals of Object Oriented Programming** | Classes, objects, constructors, static members, inline & friend functions |
-| **Unit II** | **Inheritance** | Class hierarchies, overriding, virtual base classes, abstract classes |
-| **Unit III** | **Polymorphism** | Operator overloading, function overloading, virtual functions |
+| **Unit I** | **Fundamentals of Object Oriented Programming** | Basic data types, control structures, functions, classes, constructors, static members, inline & friend functions |
+| **Unit II** | **Inheritance** | Single, multilevel, hierarchical, multiple inheritance, overriding, abstract classes, virtual base classes |
+| **Unit III** | **Polymorphism** | Function/operator overloading, virtual functions, abstract classes, polymorphic pointers, destructors |
 | **Real-Time Applications** | Applied OOP Concepts | Mini-projects demonstrating real-world use cases |
 
 ---
@@ -37,21 +37,61 @@
 ## 🗂️ Repository Structure
 
 ```text
-OOP-Cpp-Units/
+OOPS-IN-C-/
 ├── README.md
 ├── oops unit 1/
-│   └── program01.cpp  # Fundamentals Example 1
-│   └── program02.cpp  # Fundamentals Example 2
-│   └── program03.cpp  # Fundamentals Example 3
+│   ├── 01-Basic-Data-Types
+│   ├── 02-If-Else
+│   ├── 03-Loop-and-Array
+│   ├── 04-Functions
+│   ├── 05-Class-and-Object
+│   ├── 06-Constructor-and-Destructor
+│   ├── 07-Static-Member
+│   └── 08-Inline-and-Friend-Function
 ├── oops unit 2/
-│   └── program01.cpp  # Employee Payroll System
-│   └── program02.cpp  # Digital Payment Gateway
-│   └── program03.cpp  # Vehicle Fleet Management
+│   ├── Program_01_Basic_Single_Inheritance
+│   ├── Program_02_Protected_Member_Access
+│   ├── Program_03_Public_vs_Private_Inheritance
+│   ├── Program_04_Multilevel_Inheritance
+│   ├── Program_05_Hierarchical_Inheritance
+│   ├── Program_06_Multiple_Inheritance
+│   ├── Program_07_Multiple_Inheritance_Ambiguity
+│   ├── Program_08_Constructor_Destructor_Order
+│   ├── Program_09_Parameterized_Base_Construct
+│   ├── Program_10_Function_Overriding
+│   ├── Program_11_Abstract_Class
+│   ├── Program_12_Virtual_Base_Class
+│   ├── Program_13_Friend_Class
+│   ├── Program_14_Nested_Class
+│   ├── Program_15_Vehicle_Rental_System
+│   └── Program_16_Employee_Payroll_System
 ├── oops unit 3/
-│   └── program01.cpp  # CAD Shape Drawing System
-│   └── program02.cpp  # Complex Number Calculator
-│   └── program03.cpp  # Input Validation Service
+│   ├── 01-Function-Overloading
+│   ├── 02-Area-Calculator
+│   ├── 03-Unary-Minus-Operator
+│   ├── 04-Prefix-Postfix-Increment
+│   ├── 05-Complex-Number-Addition
+│   ├── 06-Distance-Comparison
+│   ├── 07-Friend-Operator-Overloading
+│   ├── 08-Base-Pointer-Without-Virtual
+│   ├── 09-Base-Pointer-With-Virtual
+│   ├── 10-Base-Reference-With-Virtual
+│   ├── 11-Abstract-Class
+│   ├── 12-Polymorphic-Shape-Pointers
+│   ├── 13-Virtual-Destructor
+│   ├── 14-Object-Slicing
+│   ├── 15-Payment-Processing-System
+│   └── 16-Employee-Payroll
 ├── unit wise real time application/
-│   └── project01.cpp  # Smart Home Device Manager
-│   └── project02.cpp  # Media Player with Polymorphic Controls
-│   └── project03.cpp  # E-Commerce Shopping Cart Using STL
+│   ├── Unit-I-Fundamentals
+│   │   ├── 01-Smart-Agriculture-Sensor-Monitor
+│   │   ├── 02-Student-Attendance-Management
+│   │   └── 03-E-Commerce-Product-Catalog
+│   ├── Unit-II-Inheritance
+│   │   ├── 01-Employee-Payroll-System
+│   │   ├── 02-Digital-Payment-Gateway
+│   │   └── 03-Vehicle-Fleet-Management
+│   └── Unit-III-Polymorphism
+│       ├── 01-CAD-Shape-Drawing-System
+│       ├── 02-Complex-Number-Calculator
+│       └── 03-Input-Validation-Service
