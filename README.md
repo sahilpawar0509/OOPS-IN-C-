@@ -15,7 +15,7 @@
 | 📝 Detail | 📌 Information |
 |---|---|
 | **👤 Name** | Sahil Pawar |
-| **🆔 PRN** | Enter your PRN |
+| **🆔 PRN** | 125UAD1110 |
 | **🏫 Class / Division** | SY – C |
 | **🎓 Programme** | B.Tech Artificial Intelligence & Data Science |
 | **📅 Semester** | III |
